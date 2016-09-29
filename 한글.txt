@@ -7,3 +7,7 @@ export LANG=en_US.UTF-8
 export LOCALE=UTF-8
 
 추가함
+
+export LESSCHARSET=latin1
+
+언어셋변경
