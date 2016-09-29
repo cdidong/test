@@ -1,2 +1,2 @@
-test  한글
-테스트중
+test  한글 테스트
+전송 EUCKR
