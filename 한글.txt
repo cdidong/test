@@ -11,3 +11,8 @@ export LOCALE=UTF-8
 export LESSCHARSET=latin1
 
 언어셋변경
+.ㅁㄴㅇ
+
+에디터플러스 변경
+
+ㅁㄴㅇ
