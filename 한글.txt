@@ -1,2 +1,4 @@
 test 한글 UTF-8 로 변경함
 커밋 깨짐
+
+git config --global core.quotepath fasle 추가함
